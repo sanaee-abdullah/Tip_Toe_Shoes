@@ -95,3 +95,9 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.td1 {
+	width: 100px;
+}
+.td2 {
+	width: 800px;
+}
